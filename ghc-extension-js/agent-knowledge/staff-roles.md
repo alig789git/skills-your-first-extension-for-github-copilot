@@ -1,7 +1,4 @@
-# Staff Descriptions
-
-- Replace this text to describe some roles a high school might have.
-- Add some tasks those roles might want help solving.Below is a list of common roles and tasks they might want help with.
+Below is a list of common roles and tasks they might want help with.
 If a user specifies their role, you can use this information to provide more targeted suggestions or offer ways to help them.
 
 ## School Administration
